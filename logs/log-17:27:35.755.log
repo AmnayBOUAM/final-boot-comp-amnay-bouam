@@ -1,0 +1,120 @@
+17:26:24.403 [main] INFO  org.amnay.base.Base - browser close success
+17:26:31.193 [main] INFO  org.amnay.base.Base - browser open success
+17:26:31.870 [main] INFO  org.amnay.TestLogin - page title validation success
+17:26:31.870 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:26:31.927 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:26:32.073 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:26:33.149 [main] INFO  org.amnay.pages.LoginPage - click on notebooks success
+17:26:33.246 [main] INFO  org.amnay.pages.LoginPage - click to add MacBook to compare list success
+17:26:33.248 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:26:33.248 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:26:33.498 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:26:33.594 [main] INFO  org.amnay.pages.LoginPage - click to add Asus to compare list success
+17:26:33.594 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:26:33.595 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:26:33.634 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:26:33.945 [main] INFO  org.amnay.pages.LoginPage - click to add HP to compare list success
+17:26:33.946 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:26:33.946 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:26:34.363 [main] INFO  org.amnay.base.Base - browser close success
+17:26:39.115 [main] INFO  org.amnay.base.Base - browser open success
+17:26:39.666 [main] INFO  org.amnay.TestLogin - page title validation success
+17:26:39.667 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:26:39.725 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:26:39.857 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:26:41.113 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+17:26:41.225 [main] INFO  org.amnay.pages.LoginPage - click on add to cart success
+17:26:41.225 [main] INFO  org.amnay.TestLogin - add to wish list button click success
+17:26:41.225 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:26:41.505 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:26:41.812 [main] INFO  org.amnay.base.Base - browser close success
+17:26:46.584 [main] INFO  org.amnay.base.Base - browser open success
+17:26:47.015 [main] INFO  org.amnay.TestLogin - page title validation success
+17:26:47.019 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:26:47.069 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:26:47.204 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:26:48.268 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+17:26:48.268 [main] INFO  org.amnay.pages.LoginPage - checking build your own computer link is displayed ...
+17:26:48.311 [main] INFO  org.amnay.TestLogin - build your own computer link is displayed
+17:26:49.990 [main] INFO  org.amnay.pages.LoginPage - click on build your own computer success
+17:26:50.344 [main] INFO  org.amnay.pages.LoginPage - checking add to cart button is displayed ...
+17:26:50.448 [main] INFO  org.amnay.TestLogin - add to cart button click success
+17:26:50.449 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:26:50.683 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:26:51.061 [main] INFO  org.amnay.base.Base - browser close success
+17:26:56.865 [main] INFO  org.amnay.base.Base - browser open success
+17:26:57.428 [main] INFO  org.amnay.TestLogin - page title validation success
+17:26:57.429 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:26:57.468 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:26:57.597 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:26:58.827 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+17:26:58.827 [main] INFO  org.amnay.pages.LoginPage - checking build your own computer link is displayed ...
+17:26:58.882 [main] INFO  org.amnay.TestLogin - build your own computer link is displayed
+17:26:59.972 [main] INFO  org.amnay.pages.LoginPage - click on build your own computer success
+17:27:00.168 [main] INFO  org.amnay.pages.LoginPage - checking add to cart button is displayed ...
+17:27:00.276 [main] INFO  org.amnay.TestLogin - add to cart button click success
+17:27:00.278 [main] INFO  org.amnay.pages.LoginPage - checking bar notification error is displayed ...
+17:27:00.523 [main] INFO  org.amnay.TestLogin - bar notification error RAM is displayed
+17:27:00.854 [main] INFO  org.amnay.base.Base - browser close success
+17:27:06.072 [main] INFO  org.amnay.base.Base - browser open success
+17:27:06.707 [main] INFO  org.amnay.TestLogin - page title validation success
+17:27:06.722 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:27:06.772 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:27:06.908 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:27:07.527 [main] INFO  org.amnay.pages.LoginPage - click on notebooks success
+17:27:07.622 [main] INFO  org.amnay.pages.LoginPage - click to add MacBook to compare list success
+17:27:07.622 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:27:07.622 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:27:07.856 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:27:08.071 [main] INFO  org.amnay.pages.LoginPage - click to add Asus to compare list success
+17:27:08.071 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:27:08.071 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:27:08.463 [main] INFO  org.amnay.base.Base - browser close success
+17:27:13.544 [main] INFO  org.amnay.base.Base - browser open success
+17:27:13.978 [main] INFO  org.amnay.TestLogin - page title validation success
+17:27:13.979 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:27:14.025 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:27:14.154 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:27:14.789 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+17:27:14.894 [main] INFO  org.amnay.pages.LoginPage - click on add to cart success
+17:27:14.895 [main] INFO  org.amnay.TestLogin - add to cart button click success
+17:27:14.895 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:27:15.174 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:27:15.174 [main] INFO  org.amnay.pages.LoginPage - checking shopping cart link is displayed ...
+17:27:15.209 [main] INFO  org.amnay.TestLogin - shopping cart link is displayed
+17:27:15.279 [main] INFO  org.amnay.pages.LoginPage - click on close bar notification success
+17:27:15.424 [main] INFO  org.amnay.pages.LoginPage - hover over cart success
+17:27:16.833 [main] INFO  org.amnay.pages.LoginPage - click on go to cart button success
+17:27:16.834 [main] INFO  org.amnay.pages.LoginPage - checking remove button is displayed ...
+17:27:17.682 [main] INFO  org.amnay.pages.LoginPage - checking shopping cart empty is displayed ...
+17:27:17.730 [main] INFO  org.amnay.TestLogin - delete items in cart success
+17:27:17.990 [main] INFO  org.amnay.base.Base - browser close success
+17:27:23.217 [main] INFO  org.amnay.base.Base - browser open success
+17:27:23.525 [main] INFO  org.amnay.TestLogin - page title validation success
+17:27:23.525 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:27:23.568 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:27:23.711 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:27:24.864 [main] INFO  org.amnay.pages.LoginPage - click on notebooks success
+17:27:24.958 [main] INFO  org.amnay.pages.LoginPage - click to add MacBook to compare list success
+17:27:24.958 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:27:24.958 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:27:25.669 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:27:25.745 [main] INFO  org.amnay.pages.LoginPage - click to add Asus to compare list success
+17:27:25.748 [main] INFO  org.amnay.TestLogin - add to compare list button click success
+17:27:25.748 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+17:27:25.937 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+17:27:26.470 [main] INFO  org.amnay.pages.LoginPage - click on product comparison link success
+17:27:26.470 [main] INFO  org.amnay.TestLogin - product comparison link click success
+17:27:26.994 [main] INFO  org.amnay.TestLogin - remove button click success
+17:27:27.548 [main] INFO  org.amnay.TestLogin - remove button click success
+17:27:27.549 [main] INFO  org.amnay.pages.LoginPage - checking compare list empty is displayed ...
+17:27:27.623 [main] INFO  org.amnay.TestLogin - compare list empty is displayed
+17:27:28.033 [main] INFO  org.amnay.base.Base - browser close success
+17:27:33.138 [main] INFO  org.amnay.base.Base - browser open success
+17:27:34.099 [main] INFO  org.amnay.TestLogin - page title validation success
+17:27:34.101 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+17:27:34.171 [main] INFO  org.amnay.TestLogin - computers link is displayed
+17:27:34.324 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+17:27:35.654 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+17:27:35.754 [main] INFO  org.amnay.pages.LoginPage - click on add to cart success
+17:27:35.754 [main] INFO  org.amnay.TestLogin - add to wishlist button click success

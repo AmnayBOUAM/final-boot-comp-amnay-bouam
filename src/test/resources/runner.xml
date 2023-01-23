@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="nopCommerce regression">
+    <parameter name="useCloudEnv" value="false"></parameter>
+
+    <parameter name="envName" value="browserstack"></parameter>
+    <parameter name="osVersion" value="11"></parameter>
+    <parameter name="browserVersion" value="101"></parameter>
+    <parameter name="os" value="mac"></parameter>
+
+    <parameter name="browserName" value="chrome"></parameter>
+    <parameter name="url" value="https://demo.nopcommerce.com/"></parameter>
+    <test name="nopCommerce Test">
+        <classes>
+
+            <class name="org.amnay.TestPurchase"></class>
+        </classes>
+    </test>
+</suite>
