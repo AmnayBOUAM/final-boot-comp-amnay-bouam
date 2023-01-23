@@ -136,15 +136,15 @@ public class Base {
             cap.setCapability("resolution", "1024x768");
             driver = new RemoteWebDriver(new URL("http://" + username + ":" + password + "@hub-cloud.browserstack.com:80/wd/hub"), cap);
         } else if (envName.equalsIgnoreCase("saucelabs")) {
-            driver = new RemoteWebDriver(new URL("http://" + username + ":" + password + "@ondemand.saucelabs.com:80/wd/hub"), cap);
+            driver = new RemoteWebDriver(new URL("http://" + username + ":" + password + "@ondemand.demo.nopcommerce.com/:80/wd/hub"), cap);
         }
     }
 
     @Parameters({"useCloudEnv", "envName", "url", "os", "osVersion", "browserName", "browserVersion"})
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("browserstack") String envName,
-                      @Optional("https://www.google.com") String url, @Optional("OS X") String os,
-                      @Optional("Ventura") String osVersion, @Optional("chrome") String browserName,
+                      @Optional("https://demo.nopcommerce.com/") String url, @Optional("OS X") String os,
+                      @Optional("Monterey") String osVersion, @Optional("chrome") String browserName,
                       @Optional("108") String browserVersion) throws MalformedURLException {
         if (useCloudEnv) {
             getCLoudDriver(envName, os, osVersion, browserName, browserVersion, username, password);

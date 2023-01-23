@@ -5,8 +5,8 @@
     <parameter name="useCloudEnv" value="false"></parameter>
 
     <parameter name="envName" value="browserstack"></parameter>
-    <parameter name="osVersion" value="11"></parameter>
-    <parameter name="browserVersion" value="101"></parameter>
+    <parameter name="osVersion" value="Monterey"></parameter>
+    <parameter name="browserVersion" value="108"></parameter>
     <parameter name="os" value="mac"></parameter>
 
     <parameter name="browserName" value="chrome"></parameter>
