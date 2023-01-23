@@ -13,7 +13,9 @@
     <parameter name="url" value="https://demo.nopcommerce.com/"></parameter>
     <test name="nopCommerce Test">
         <classes>
-
+            <class name="org.amnay.TestInitialPage"></class>
+            <class name="org.amnay.TestRegister"></class>
+            <class name="org.amnay.TestLogin"></class>
             <class name="org.amnay.TestPurchase"></class>
         </classes>
     </test>

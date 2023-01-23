@@ -143,7 +143,7 @@ public class Base {
     @Parameters({"useCloudEnv", "envName", "url", "os", "osVersion", "browserName", "browserVersion"})
     @BeforeMethod
     public void setUp(@Optional("false") boolean useCloudEnv, @Optional("browserstack") String envName,
-                      @Optional("https://demo.nopcommerce.com/") String url, @Optional("OS X") String os,
+                      @Optional("https://www.google.com") String url, @Optional("OS X") String os,
                       @Optional("Monterey") String osVersion, @Optional("chrome") String browserName,
                       @Optional("108") String browserVersion) throws MalformedURLException {
         if (useCloudEnv) {
