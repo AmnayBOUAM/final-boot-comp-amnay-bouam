@@ -32,7 +32,6 @@ Temporary Items
 target/
 out/
 test-output/
-Extent-Report/
 *.iml
 */Extent-Report/
 
