@@ -156,6 +156,7 @@ public class TestPurchase extends Base {
         LOG.info("shopping cart link is displayed");
         homePage.clickOnCloseBarNotification();
         homePage.hoverOverCart(driver);
+        waitFor(1);
         homePage.clickOnGoToCartBtn();
         cartPage.removeBtnIsDisplayed();
         cartPage.clickOnRemoveBtn();
@@ -239,6 +240,7 @@ public class TestPurchase extends Base {
         LOG.info("wishlist link is displayed");
         homePage.clickOnCloseBarNotification();
         homePage.waitForWishlistLinkBeAvailable(driver);
+        waitFor(1);
         homePage.clickOnWishlistLink();
         wishLisPage.updateQuantity(itemsQuantity);
         wishLisPage.updateWishlistBtnIsDisplayed();
@@ -272,6 +274,7 @@ public class TestPurchase extends Base {
         LOG.info("wishlist cart link is displayed");
         homePage.clickOnCloseBarNotification();
         homePage.waitForWishlistLinkBeAvailable(driver);
+        waitFor(1);
         homePage.clickOnWishlistLink();
         wishLisPage.removeBtnIsDisplayed();
         wishLisPage.clickOnRemoveBtn();
@@ -306,6 +309,7 @@ public class TestPurchase extends Base {
         LOG.info("wishlist cart link is displayed");
         homePage.clickOnCloseBarNotification();
         homePage.waitForWishlistLinkBeAvailable(driver);
+        waitFor(1);
         homePage.clickOnWishlistLink();
         LOG.info("items quantity to add to the cart is : "+wishLisPage.getItemsQuantity()+" item(s)");
         wishLisPage.addToCartCheckboxIsDisplayed();
@@ -426,6 +430,7 @@ public class TestPurchase extends Base {
         notebooksPage.barNotificationSuccessIsDisplayed();
         LOG.info("bar notification success is displayed");
         notebooksPage.waitForProductComparisonLinkToBeClickable(driver);
+        waitFor(1);
         notebooksPage.clickOnProductComparisonLink();
         LOG.info("product comparison link click success");
         compareProductsPage.clickOnRemoveBtn();

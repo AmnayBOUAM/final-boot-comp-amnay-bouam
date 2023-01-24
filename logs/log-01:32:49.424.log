@@ -1,0 +1,130 @@
+01:28:30.546 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+01:28:30.547 [main] INFO  org.amnay.pages.LoginPage - checking wish list link is displayed ...
+01:28:30.580 [main] INFO  org.amnay.TestLogin - wishlist cart link is displayed
+01:28:30.642 [main] INFO  org.amnay.pages.LoginPage - click on close bar notification success
+01:28:32.110 [main] INFO  org.amnay.pages.LoginPage - checking remove button is displayed ...
+01:28:32.687 [main] INFO  org.amnay.pages.LoginPage - checking wishlist empty is displayed ...
+01:28:32.727 [main] INFO  org.amnay.TestLogin - update quantity in cart success
+01:28:32.986 [main] INFO  org.amnay.base.Base - browser close success
+01:28:38.270 [main] INFO  org.amnay.base.Base - browser open success
+01:28:38.737 [main] INFO  org.amnay.TestLogin - page title validation success
+01:28:38.737 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+01:28:38.826 [main] INFO  org.amnay.TestLogin - computers link is displayed
+01:28:38.997 [main] INFO  org.amnay.pages.LoginPage - hover over apparel success
+01:28:39.588 [main] INFO  org.amnay.pages.LoginPage - click on shoes success
+01:28:41.063 [main] INFO  org.amnay.TestLogin - list of prices: [27.56, 30.00, 40.00]
+01:28:41.110 [main] INFO  org.amnay.TestLogin - items sorted success
+01:28:41.500 [main] INFO  org.amnay.base.Base - browser close success
+01:28:47.275 [main] INFO  org.amnay.base.Base - browser open success
+01:28:47.681 [main] INFO  org.amnay.TestLogin - page title validation success
+01:28:47.682 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+01:28:47.726 [main] INFO  org.amnay.TestLogin - computers link is displayed
+01:28:47.858 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+01:28:48.994 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+01:28:49.081 [main] INFO  org.amnay.pages.LoginPage - click on add to cart success
+01:28:49.081 [main] INFO  org.amnay.TestLogin - add to cart button click success
+01:28:49.081 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+01:28:49.357 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+01:28:49.357 [main] INFO  org.amnay.pages.LoginPage - checking shopping cart link is displayed ...
+01:28:49.412 [main] INFO  org.amnay.TestLogin - shopping cart link is displayed
+01:28:49.627 [main] INFO  org.amnay.pages.LoginPage - click on close bar notification success
+01:28:49.861 [main] INFO  org.amnay.pages.LoginPage - hover over cart success
+01:28:51.183 [main] INFO  org.amnay.pages.LoginPage - click on go to cart button success
+01:28:51.400 [main] INFO  org.amnay.pages.LoginPage - checking update cart button is displayed ...
+01:28:51.992 [main] INFO  org.amnay.TestLogin - update quantity in cart success
+01:28:52.293 [main] INFO  org.amnay.base.Base - browser close success
+01:28:56.990 [main] INFO  org.amnay.base.Base - browser open success
+01:28:57.276 [main] INFO  org.amnay.TestLogin - page title validation success
+01:28:57.276 [main] INFO  org.amnay.pages.LoginPage - checking computers link is displayed ...
+01:28:57.312 [main] INFO  org.amnay.TestLogin - computers link is displayed
+01:28:57.469 [main] INFO  org.amnay.pages.LoginPage - hover over computers success
+01:28:57.992 [main] INFO  org.amnay.pages.LoginPage - click on desktops success
+01:28:58.074 [main] INFO  org.amnay.pages.LoginPage - click on add to cart success
+01:28:58.074 [main] INFO  org.amnay.TestLogin - add to wishlist button click success
+01:28:58.075 [main] INFO  org.amnay.pages.LoginPage - checking bar notification success is displayed ...
+01:28:58.299 [main] INFO  org.amnay.TestLogin - bar notification success is displayed
+01:28:58.300 [main] INFO  org.amnay.pages.LoginPage - checking wish list link is displayed ...
+01:28:58.336 [main] INFO  org.amnay.TestLogin - wishlist link is displayed
+01:28:58.397 [main] INFO  org.amnay.pages.LoginPage - click on close bar notification success
+01:28:59.810 [main] INFO  org.amnay.base.Base - browser close success
+01:31:59.560 [main] INFO  org.amnay.base.Base - browser open success
+01:32:03.190 [main] INFO  org.amnay.TestInitialPage - page title validation success
+01:32:03.190 [main] INFO  org.amnay.pages.LoginPage - checking login link is displayed ...
+01:32:03.321 [main] INFO  org.amnay.TestInitialPage - login link field is displayed
+01:32:03.322 [main] INFO  org.amnay.pages.LoginPage - checking Register link is displayed ...
+01:32:03.394 [main] INFO  org.amnay.TestInitialPage - register link is displayed
+01:32:03.395 [main] INFO  org.amnay.pages.LoginPage - checking wish list link is displayed ...
+01:32:03.474 [main] INFO  org.amnay.TestInitialPage - wishlist link is displayed
+01:32:04.529 [main] INFO  org.amnay.base.Base - browser close success
+01:32:11.834 [main] INFO  org.amnay.base.Base - browser open success
+01:32:12.479 [main] INFO  org.amnay.TestInitialPage - page title validation success
+01:32:12.788 [main] INFO  org.amnay.base.Base - browser close success
+01:32:16.790 [main] INFO  org.amnay.base.Base - browser open success
+01:32:18.017 [main] INFO  org.amnay.TestLogin - page title validation success
+01:32:19.711 [main] INFO  org.amnay.pages.LoginPage - click on register link success
+01:32:19.711 [main] INFO  org.amnay.TestLogin - register link click success
+01:32:19.791 [main] INFO  org.amnay.TestLogin - click on gender male success
+01:32:19.985 [main] INFO  org.amnay.TestLogin - enter first name success
+01:32:20.098 [main] INFO  org.amnay.TestLogin - enter last name success
+01:32:20.302 [main] INFO  org.amnay.TestLogin - select birth day success
+01:32:20.460 [main] INFO  org.amnay.TestLogin - select birth month success
+01:32:20.614 [main] INFO  org.amnay.TestLogin - select birth year success
+01:32:20.743 [main] INFO  org.amnay.TestLogin - enter email success
+01:32:20.879 [main] INFO  org.amnay.TestLogin - enter password success
+01:32:20.994 [main] INFO  org.amnay.TestLogin - enter confirm password success
+01:32:21.064 [main] INFO  org.amnay.TestLogin - register button click success
+01:32:21.065 [main] INFO  org.amnay.pages.HomePage - checking confirm password error is displayed ...
+01:32:21.118 [main] INFO  org.amnay.TestLogin - confirm password is required is displayed
+01:32:21.151 [main] INFO  org.amnay.TestLogin - The password and confirmation password do not match.
+01:32:21.423 [main] INFO  org.amnay.base.Base - browser close success
+01:32:25.348 [main] INFO  org.amnay.base.Base - browser open success
+01:32:25.939 [main] INFO  org.amnay.TestLogin - page title validation success
+01:32:26.876 [main] INFO  org.amnay.pages.LoginPage - click on register link success
+01:32:26.880 [main] INFO  org.amnay.TestLogin - register link click success
+01:32:26.970 [main] INFO  org.amnay.TestLogin - click on gender male success
+01:32:27.184 [main] INFO  org.amnay.TestLogin - enter first name success
+01:32:27.306 [main] INFO  org.amnay.TestLogin - enter last name success
+01:32:27.562 [main] INFO  org.amnay.TestLogin - select birth day success
+01:32:27.721 [main] INFO  org.amnay.TestLogin - select birth month success
+01:32:27.904 [main] INFO  org.amnay.TestLogin - select birth year success
+01:32:27.999 [main] INFO  org.amnay.TestLogin - enter email success
+01:32:28.166 [main] INFO  org.amnay.TestLogin - enter password success
+01:32:28.294 [main] INFO  org.amnay.TestLogin - enter confirm password success
+01:32:28.385 [main] INFO  org.amnay.TestLogin - register button click success
+01:32:28.385 [main] INFO  org.amnay.pages.HomePage - checking email error is displayed ...
+01:32:28.422 [main] INFO  org.amnay.TestLogin - email error is displayed
+01:32:28.447 [main] INFO  org.amnay.TestLogin - Wrong email
+01:32:28.762 [main] INFO  org.amnay.base.Base - browser close success
+01:32:34.341 [main] INFO  org.amnay.base.Base - browser open success
+01:32:35.745 [main] INFO  org.amnay.TestLogin - page title validation success
+01:32:37.079 [main] INFO  org.amnay.pages.LoginPage - click on register link success
+01:32:37.079 [main] INFO  org.amnay.TestLogin - register link click success
+01:32:37.361 [main] INFO  org.amnay.TestLogin - click on gender male success
+01:32:37.661 [main] INFO  org.amnay.TestLogin - enter first name success
+01:32:37.829 [main] INFO  org.amnay.TestLogin - enter last name success
+01:32:38.091 [main] INFO  org.amnay.TestLogin - select birth day success
+01:32:38.314 [main] INFO  org.amnay.TestLogin - select birth month success
+01:32:38.669 [main] INFO  org.amnay.TestLogin - select birth year success
+01:32:38.762 [main] INFO  org.amnay.TestLogin - enter email success
+01:32:38.938 [main] INFO  org.amnay.TestLogin - enter password success
+01:32:39.131 [main] INFO  org.amnay.TestLogin - enter confirm password success
+01:32:39.247 [main] INFO  org.amnay.TestLogin - register button click success
+01:32:39.248 [main] INFO  org.amnay.pages.HomePage - checking email is required is displayed ...
+01:32:39.327 [main] INFO  org.amnay.TestLogin - email is required is displayed
+01:32:39.362 [main] INFO  org.amnay.TestLogin - Email is required.
+01:32:39.679 [main] INFO  org.amnay.base.Base - browser close success
+01:32:46.167 [main] INFO  org.amnay.base.Base - browser open success
+01:32:47.563 [main] INFO  org.amnay.TestLogin - page title validation success
+01:32:48.056 [main] INFO  org.amnay.pages.LoginPage - click on register link success
+01:32:48.071 [main] INFO  org.amnay.TestLogin - register link click success
+01:32:48.186 [main] INFO  org.amnay.TestLogin - click on gender male success
+01:32:48.341 [main] INFO  org.amnay.TestLogin - enter first name success
+01:32:48.434 [main] INFO  org.amnay.TestLogin - enter last name success
+01:32:48.583 [main] INFO  org.amnay.TestLogin - select birth day success
+01:32:48.742 [main] INFO  org.amnay.TestLogin - select birth month success
+01:32:48.893 [main] INFO  org.amnay.TestLogin - select birth year success
+01:32:49.062 [main] INFO  org.amnay.TestLogin - enter email success
+01:32:49.184 [main] INFO  org.amnay.TestLogin - enter password success
+01:32:49.282 [main] INFO  org.amnay.TestLogin - enter confirm password success
+01:32:49.361 [main] INFO  org.amnay.TestLogin - register button click success
+01:32:49.361 [main] INFO  org.amnay.pages.HomePage - checking password is required is displayed ...
